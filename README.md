@@ -1,8 +1,8 @@
-# Hey there! 👋 I'm a Software Engineer at XBP Global
+# Hey there! 👋 I'm Kamaljeet Singh Rana
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Software+Engineer+%40+XBP+Global;3%2B+Years+of+Experience;LLM+%26+Agentic+Workflow+Specialist;Full+Stack+Developer;500%2B+LeetCode+Problems+Solved!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Software+Engineer+L4+%40+XBP+Global;3%2B+Years+of+Experience;LLMs+%26+Agentic+Workflow+Specialist;Full+Stack+Engineer;500%2B+LeetCode+Problems+Solved)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,13 +10,16 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Software Engineer** at **XBP Global** with **3+ years of experience** building scalable applications and working with cutting-edge technologies. I specialize in **LLMs, agentic workflows**, and full-stack development.
+I'm a **Software Engineer (L4)** at **XBP Global** with **3+ years of professional experience** building scalable, production-grade systems. My core interests lie in **LLMs, agentic workflows, system design**, and **full‑stack engineering**.
 
-- 🤖 Building intelligent systems with **LLMs** and **agentic workflows**
-- 💻 Crafting robust backends and interactive frontends
-- ☁️ Deploying scalable solutions on **Azure** with **Docker** & **Kubernetes**
-- 🧠 Solved **500+ problems** on LeetCode
-- 🌱 Always learning and exploring new technologies
+I enjoy designing systems end‑to‑end — from **API & data modeling** to **AI-powered agents** and **cloud-native deployments**.
+
+- 🤖 Designing & building **LLM-powered systems** and **agentic workflows**
+- 🧠 Strong focus on **system design & backend architecture**
+- 💻 Full‑stack development with modern frameworks
+- ☁️ Cloud‑native deployments using **Docker, Kubernetes & Azure**
+- 📊 Solved **500+ problems** on **LeetCode**
+- 🌱 Constantly learning: distributed systems, AI infra & scalable architectures
 
 ---
 
@@ -36,7 +39,7 @@ Python      ████████████████████  100%
 FastAPI     ████████████████████  100%
 ```
 
-### ⭐ Good (Advanced Level)
+### ⭐ Advanced
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -66,57 +69,42 @@ Kubernetes  ████████████████░░░░  80%
 <td width="50%">
 
 ### 🤖 AI & LLMs
-- Large Language Models Integration
+- LLM Integration (OpenAI, LangChain)
 - Agentic Workflow Design
-- Prompt Engineering
-- AI-Powered Applications
+- RAG Architectures
+- Prompt Engineering & Evaluation
 
 </td>
 <td width="50%">
 
-### 🏗️ Backend Development
-- RESTful API Design
+### 🏗️ Backend & System Design
 - FastAPI & Node.js
-- Microservices Architecture
-- Database Design & Optimization
+- REST APIs & Microservices
+- Database Modeling & Optimization
+- Caching, Queues & Async Systems
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 🎨 Frontend Development
+### 🎨 Frontend
 - React & Modern JavaScript
-- Responsive Design
+- Component‑driven UI
 - State Management
-- UI/UX Implementation
 
 </td>
 <td width="50%">
 
-### ☁️ DevOps & Cloud
-- Docker Containerization
-- Kubernetes Orchestration
+### ☁️ Cloud & DevOps
+- Docker & Kubernetes
 - Azure Cloud Services
 - CI/CD Pipelines
+- Observability & Scaling
 
 </td>
 </tr>
 </table>
-
-<!-- --- -->
-
-<!-- ## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kamalrana123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kamalrana123&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kamalrana123&theme=tokyonight&hide_border=true)
-
-</div> -->
 
 ---
 
@@ -126,7 +114,7 @@ Kubernetes  ████████████████░░░░  80%
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/rmekamal1789?theme=dark&font=Karma&ext=heatmap)
 
-### 🎯 500+ Problems Solved!
+### 🎯 500+ Problems Solved
 
 ![LeetCode](https://img.shields.io/badge/LeetCode-500%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
 
@@ -138,29 +126,15 @@ Kubernetes  ████████████████░░░░  80%
 
 ```javascript
 const currentFocus = {
-    role: "Software Engineer @ XBP Global",
-    specialization: ["LLMs", "Agentic Workflows", "Full Stack Development"],
-    learning: ["Advanced AI/ML", "System Design", "Cloud Architecture"],
-    goals: ["Build more AI-powered solutions", "Contribute to open source", "Master distributed systems"]
+  role: "Software Engineer (L4) @ XBP Global",
+  specialization: ["LLMs", "Agentic Workflows", "System Design", "Full Stack"],
+  learning: ["Distributed Systems", "Advanced AI/ML", "Cloud Architecture"],
+  goals: [
+    "Build scalable AI agents",
+    "Open-source meaningful tools",
+    "Master large-scale system design"
+  ]
 };
-```
-
----
-
-## 📈 Experience Timeline
-
-```mermaid
-gantt
-    title My Professional Journey
-    dateFormat YYYY-MM
-    section XBP Global
-    Software Engineer           :2022-01, 2026-01
-    section Skills Growth
-    JavaScript & Python         :2022-01, 2026-01
-    LLMs & AI                  :2023-01, 2026-01
-    Cloud & DevOps             :2022-06, 2026-01
-    section Achievements
-    500+ LeetCode Problems     :milestone, 2025-01, 0d
 ```
 
 ---
@@ -170,48 +144,40 @@ gantt
 <div align="center">
 
 | Category | Technologies |
-|----------|-------------|
+|---------|--------------|
 | **Languages** | JavaScript, Python, TypeScript |
-| **Frontend** | React, HTML5, CSS3, Redux |
-| **Backend** | FastAPI, Node.js, Express.js |
-| **AI/ML** | LLMs, OpenAI, LangChain, Agentic Workflows |
-| **DevOps** | Docker, Kubernetes, CI/CD, GitHub Actions |
-| **Cloud** | Azure, Azure Functions, Azure DevOps |
-| **Databases** | MongoDB, PostgreSQL, Redis |
+| **Frontend** | React, HTML5, CSS3 |
+| **Backend** | FastAPI, Node.js, Express |
+| **AI/ML** | LLMs, LangChain, RAG, Agentic Systems |
+| **DevOps** | Docker, Kubernetes, GitHub Actions |
+| **Cloud** | Azure |
+| **Databases** | PostgreSQL, MongoDB, Redis |
 | **Tools** | Git, VS Code, Postman, Jira |
 
 </div>
 
 ---
 
-## 🌟 Highlights
+## 🌟 Career Highlights
 
 <div align="center">
 
-🎓 **3+ Years** of Professional Experience
-
-🏢 Currently at **XBP Global**
-
-🤖 Specialized in **LLM & Agentic Workflows**
-
-💡 **500+ LeetCode** Problems Solved
-
-☁️ **Cloud Native** Development Expert
-
-🚀 **Full Stack** Developer
+🏢 **Software Engineer (L4)** at **XBP Global**  
+🏆 **Star Performer** Award (Jade Global)  
+🤖 Built multiple **AI & LLM-based internal tools**  
+🧠 **500+ LeetCode** problems solved  
+☁️ Strong experience in **cloud-native systems**  
 
 </div>
 
 ---
 
-## 📫 Let's Connect!
+## 📫 Let's Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/YOUR_LEETCODE)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kamalrana123)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/rmekamal1789)
 
 </div>
 
@@ -219,7 +185,7 @@ gantt
 
 <div align="center">
 
-### 💭 Quote of the Day
+### 💭 Quote
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
@@ -227,12 +193,11 @@ gantt
 
 ### 👀 Profile Views
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=kamalrana123&color=blueviolet&style=for-the-badge)
 
 ---
 
-⭐️ From [YOUR_NAME](https://github.com/YOUR_GITHUB_USERNAME)
-
-**"Building the future, one line of code at a time."** 💻✨
+⭐️ From [Kamaljeet Singh Rana](https://github.com/kamalrana123)  
+**"Building scalable systems and intelligent agents, one line at a time."** 💻🤖
 
 </div>
