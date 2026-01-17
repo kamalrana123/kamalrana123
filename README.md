@@ -36,9 +36,9 @@
 
 ### 🔗 Connect
 <p>
-  <a href="https://github.com/YOUR_GITHUB"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github" /></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin" /></a>
-  <a href="https://leetcode.com/YOUR_LEETCODE"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode" /></a>
+  <a href="https://github.com/kamalrana123"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github" /></a>
+  <a href="https://linkedin.com/in/kamaljeet-singh-rana"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin" /></a>
+  <a href="https://leetcode.com/rmekamal1789"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode" /></a>
 </p>
 
 ---
